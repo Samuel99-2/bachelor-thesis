@@ -598,7 +598,7 @@ max_diff_compare = function(p1, p2, dd1, dd2, nsim = 5000) {
   return(c(vec_max, 1 - ecdf(simul_max)(vec_max)))
 }
 
-#time to unfuck some data
+
 
 
 fm = marketcap~.
